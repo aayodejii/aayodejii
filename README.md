@@ -1,10 +1,10 @@
 ### Hey 👋🏻
 
-I'm `Erfan Khadivar` a 20 years old self-taught software developer who does his best to learn new technologies everyday and create beautiful things.
-
+<!-- I'm `Erfan Khadivar` a 20 years old self-taught software developer who does his best to learn new technologies everyday and create beautiful things.
+ -->
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-#### Connect with me:
+<!-- #### Connect with me:
 
 <a href="mailto:rendinjast@gmail.com">
 <img align="left" alt="telegram" width="22px" src="https://simpleicons.org/icons/maildotru.svg" />
@@ -17,7 +17,7 @@ I'm `Erfan Khadivar` a 20 years old self-taught software developer who does his 
 </a>
 <br />
 <br />
-<br />
+<br /> -->
 
 ![OS](https://img.shields.io/badge/-OS-blue?style=for-the-badge)
 ![archlinux](https://img.shields.io/badge/-Arch%20Linux-0A1A2F?style=for-the-badge&logo=archlinux)
