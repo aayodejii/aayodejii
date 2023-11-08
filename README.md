@@ -23,7 +23,7 @@
 ![archlinux](https://img.shields.io/badge/-Arch%20Linux-0A1A2F?style=for-the-badge&logo=archlinux)
 
 ![IDE's](https://img.shields.io/badge/-IDE's-darkblue?style=for-the-badge)
-![vscode](https://img.shields.io/badge/-Visual%20StudioL%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
+![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
 ![neoVim](https://img.shields.io/badge/-NeoVim-0A1A2F?style=for-the-badge&logo=neovim)
 
 ![DESIGN](https://img.shields.io/badge/-DESIGN%20TOOLS-orange?style=for-the-badge)
