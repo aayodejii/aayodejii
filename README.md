@@ -21,20 +21,23 @@
 
 ![OS](https://img.shields.io/badge/-OS-blue?style=for-the-badge)
 ![archlinux](https://img.shields.io/badge/-Arch%20Linux-0A1A2F?style=for-the-badge&logo=archlinux)
+![ubuntu](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=for-the-badge&logo=ubuntu)
 
 ![IDE's](https://img.shields.io/badge/-IDE's-darkblue?style=for-the-badge)
 ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
-![neoVim](https://img.shields.io/badge/-NeoVim-0A1A2F?style=for-the-badge&logo=neovim)
+![pycharm](https://img.shields.io/badge/-PyCharm-0A1A2F?style=for-the-badge&logo=pycharm)
+![notepad++](https://img.shields.io/badge/-Notepad++-0A1A2F?style=for-the-badge&logo=notepad%2B%2B)
 
 ![DESIGN](https://img.shields.io/badge/-DESIGN%20TOOLS-orange?style=for-the-badge)
 ![figma](https://img.shields.io/badge/-figma-0A1A2F?style=for-the-badge&logo=figma)
-![framer](https://img.shields.io/badge/-framer-0A1A2F?style=for-the-badge&logo=framer)
 
 ![PROGRAMMING LANGUAGE](https://img.shields.io/badge/-proramming%20language-red?style=for-the-badge)
+![python](https://img.shields.io/badge/-python-0A1A2F?style=for-the-badge&logo=python)
 ![typescript](https://img.shields.io/badge/-typescript-0A1A2F?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/-javascript-0A1A2F?style=for-the-badge&logo=javascript)
-![go](https://img.shields.io/badge/-go-0A1A2F?style=for-the-badge&logo=go)
-![kotlin](https://img.shields.io/badge/-kotlin-0A1A2F?style=for-the-badge&logo=kotlin)
+![php](https://img.shields.io/badge/-php-0A1A2F?style=for-the-badge&logo=php)
+![java](https://img.shields.io/badge/-java-0A1A2F?style=for-the-badge&logo=java)
+
 
 ---
 
@@ -45,6 +48,8 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+<img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
+
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
