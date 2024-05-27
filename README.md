@@ -1,14 +1,21 @@
-### Hey 👋🏻
+### Welcome 👋🏻
 
-<!-- I'm `Erfan Khadivar` a 20 years old self-taught software developer who does his best to learn new technologies everyday and create beautiful things.
- -->
+ I'm `Ayodeji Akenroye`, a software developer who does his best to learn new technologies everyday and create beautiful things.
+ 
+ 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-<!-- #### Connect with me:
+#### Connect with me:
 
-<a href="mailto:rendinjast@gmail.com">
+<a href="mailto:aayodeji.f@gmail.com">
 <img align="left" alt="telegram" width="22px" src="https://simpleicons.org/icons/maildotru.svg" />
 </a>
+
+<br />
+<br />
+
+ 
+ <!---
 <a href="https://t.me/rendx">
 <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -17,8 +24,8 @@
 </a>
 <br />
 <br />
-<br /> -->
-
+<br />
+-->
 ![OS](https://img.shields.io/badge/-OS-blue?style=for-the-badge)
 ![archlinux](https://img.shields.io/badge/-Arch%20Linux-0A1A2F?style=for-the-badge&logo=archlinux)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=for-the-badge&logo=ubuntu)
