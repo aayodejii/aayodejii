@@ -1,18 +1,18 @@
 ### Hi 🙂
 
- I'm `Ayodeji Akenroye`. 
- 
+![NAME](https://img.shields.io/badge/NAME-Ayodeji%20Akenroye-0A1A2F?style=for-the-badge)
+
  
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-#### Connect with me:
+<!---#### Connect with me:
 
 <a href="mailto:aayodeji.f@gmail.com">
 <img align="left" alt="telegram" width="22px" src="https://simpleicons.org/icons/maildotru.svg" />
 </a>
 
 <br />
-<br />
+<br /> -->
 
  
  <!---
@@ -43,31 +43,25 @@
 
 ---
 
-<div align="center">
-  
-  ###### SKILLS & TECHNOLOGIES:
-  
-</div>
+### 🛠 SKILLS & TECHNOLOGIES
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-  
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  
-  <img align="center" alt="Celery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original-wordmark.svg">
-  
-  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  
-  <img align="center" alt="Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-  
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+#### **Backend Frameworks**
+![django](https://img.shields.io/badge/-Django-0A1A2F?style=for-the-badge&logo=django)
+![drf](https://img.shields.io/badge/-Django%20REST%20Framework-0A1A2F?style=for-the-badge&logo=django)
+
+#### **Databases & Message Brokers**
+![postgresql](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=for-the-badge&logo=postgresql)
+![redis](https://img.shields.io/badge/-Redis-0A1A2F?style=for-the-badge&logo=redis)
+
+#### **Task Processing**
+![celery](https://img.shields.io/badge/-Celery-0A1A2F?style=for-the-badge&logo=celery)
+
+#### **DevOps & Deployment**
+![aws](https://img.shields.io/badge/-AWS-0A1A2F?style=for-the-badge&logo=amazonwebservices)
+![nginx](https://img.shields.io/badge/-Nginx-0A1A2F?style=for-the-badge&logo=nginx)
+
+#### **Version Control**
+![git](https://img.shields.io/badge/-Git-0A1A2F?style=for-the-badge&logo=git)
 
 
 
