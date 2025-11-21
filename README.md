@@ -43,5 +43,5 @@
 
 #### **Connect with me**
 [![Twitter](https://img.shields.io/badge/Twitter-@AyodejiAkenroye-1DA1F2?style=for-the-badge)](https://x.com/aayodejii_)
-[![Email](https://img.shields.io/badge/Email-ayodeji@example.com-D14836?style=for-the-badge)](mailto:aayodeji.f@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aayodejif@gmail.com-D14836?style=for-the-badge)](mailto:aayodeji.f@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayodeji%20Akenroye-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ayodeji-akenroye)
