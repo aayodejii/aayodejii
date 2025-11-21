@@ -1,35 +1,10 @@
 ### Hi 🙂
-
-![NAME](https://img.shields.io/badge/NAME-Ayodeji%20Akenroye-0A1A2F?style=for-the-badge)
-
+![NAME](https://img.shields.io/badge/NAME-Ayo%20Akenroye-0A1A2F?style=for-the-badge)
  
-<!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
-
-<!---#### Connect with me:
-
-<a href="mailto:aayodeji.f@gmail.com">
-<img align="left" alt="telegram" width="22px" src="https://simpleicons.org/icons/maildotru.svg" />
-</a>
-
-<br />
-<br /> -->
-
- 
- <!---
-<a href="https://t.me/rendx">
-<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://discordapp.com/users/867935667664072745">
-<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<br />
-<br />
-<br />
--->
 ![OS](https://img.shields.io/badge/-OS-blue?style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=for-the-badge&logo=ubuntu)
 
-![IDE's](https://img.shields.io/badge/-IDE's-darkblue?style=for-the-badge)
+![IDE](https://img.shields.io/badge/-IDE's-darkblue?style=for-the-badge)
 ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
 ![pycharm](https://img.shields.io/badge/-PyCharm-0A1A2F?style=for-the-badge&logo=pycharm)
 
@@ -40,10 +15,7 @@
 ![php](https://img.shields.io/badge/-php-0A1A2F?style=for-the-badge&logo=php)
 ![java](https://img.shields.io/badge/-java-0A1A2F?style=for-the-badge&logo=java)
 
-
----
-
-### 🛠 SKILLS & TECHNOLOGIES
+### 🛠 SKILLS & TECHS
 
 #### **Backend Frameworks**
 ![django](https://img.shields.io/badge/-Django-0A1A2F?style=for-the-badge&logo=django)
@@ -56,6 +28,12 @@
 #### **Task Processing**
 ![celery](https://img.shields.io/badge/-Celery-0A1A2F?style=for-the-badge&logo=celery)
 
+#### **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/-Prometheus-0A1A2F?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/-Grafana-0A1A2F?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/-Sentry-0A1A2F?style=for-the-badge)
+![New Relic](https://img.shields.io/badge/-New%20Relic-0A1A2F?style=for-the-badge)
+
 #### **DevOps & Deployment**
 ![aws](https://img.shields.io/badge/-AWS-0A1A2F?style=for-the-badge&logo=amazonwebservices)
 ![nginx](https://img.shields.io/badge/-Nginx-0A1A2F?style=for-the-badge&logo=nginx)
@@ -63,6 +41,7 @@
 #### **Version Control**
 ![git](https://img.shields.io/badge/-Git-0A1A2F?style=for-the-badge&logo=git)
 
-
-
-
+#### **Connect with me**
+[![Twitter](https://img.shields.io/badge/Twitter-@AyodejiAkenroye-1DA1F2?style=for-the-badge)](https://x.com/aayodejii_)
+[![Email](https://img.shields.io/badge/Email-ayodeji@example.com-D14836?style=for-the-badge)](mailto:aayodeji.f@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayodeji%20Akenroye-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ayodeji-akenroye)
